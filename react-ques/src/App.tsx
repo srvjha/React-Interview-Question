@@ -11,7 +11,7 @@ function App() {
     <>
       <div className="flex flex-col bg-blue-300 h-screen">
         <div className="flex justify-center items-center rounded-lg ml-[560px] mt-5 bg-blue-950 text-white shadow-2xl shadow-black p-2 w-1/4 h-[60px]">
-          <h1 className="font-semibold text-xl">React Components</h1>
+          <h1 className="font-semibold text-xl">Custom React Components</h1>
         </div>
         <div className="mt-14 h-screen w-full p-10">
           {!onToast ? 
