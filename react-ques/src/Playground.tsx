@@ -23,7 +23,7 @@ const Playground = () => {
     if (!username || !email) {
       setToast({
         visible: true,
-        message: "Please fill in all required fields.",
+        message: "Please fill in all required fields!.",
         duration: 6000,
         position: 'top-right',
         title: 'Validation Error',
